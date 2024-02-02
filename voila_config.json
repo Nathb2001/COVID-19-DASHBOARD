@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "template": "gridstack",
+  "request_headers": {
+    "Authorization": "Bearer YOUR_GITHUB_TOKEN"
+  }
+}
