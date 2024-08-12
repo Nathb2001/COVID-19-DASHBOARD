@@ -23,7 +23,7 @@ pip install ipywidgets pandas numpy matplotlib uk-covid19
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/diy-covid-dashboard.git
+   git clone https://github.com/Nathb2001/COVID-19-DASHBOARD.git
    cd diy-covid-dashboard
    ```
 
